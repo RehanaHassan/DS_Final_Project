@@ -25,7 +25,5 @@ This repository contains the final project for the Data Structures and Algorithm
 1.  Compile the source files.
 2.  Run the executable and follow the console prompts.
 
-## 👥 Contributors
 
--   **Team IDs**: 22F-3834, 22F-3819, 22F-8796
 -   **Course**: Data Structures (Fall 2025)
